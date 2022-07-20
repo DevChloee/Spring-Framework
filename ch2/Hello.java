@@ -9,8 +9,6 @@ public class Hello {
 	int iv = 10; //instance variable
 	static int cv = 20; // static variable
 	
-	// testing 
-	
 	// 2.Connect "hello" URL with main() METHOD
 	// RequestMapping can call method regardless of modifier
 	// Even tho Its modifier is private, RequestMapping can approach
